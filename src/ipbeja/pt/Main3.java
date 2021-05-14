@@ -38,6 +38,10 @@ public class Main3 extends Application {
 
     }
 
+     public void meuNome() {
+        System.out.println("Hi");
+    }
+
     class ButtonHandler implements EventHandler<ActionEvent>{
 
 

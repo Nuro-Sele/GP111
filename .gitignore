@@ -1,3 +1,11 @@
 # Project exclude paths
 /out/
 /.idea/aws.xml
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/description.html
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/project-template.xml
+/.idea/vcs.xml
